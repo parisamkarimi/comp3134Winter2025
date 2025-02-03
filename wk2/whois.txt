@@ -1,0 +1,35 @@
+Domain: example.com
+Registrar: VeriSign, Inc.
+Created: 1995-01-01
+Expires: 2025-01-01
+Nameservers: a.iana-servers.net, b.iana-servers.net
+Admin Contact: admin@example.com
+
+Domain: google.com
+Registrar: MarkMonitor Inc.
+Created: 1997-09-15
+Expires: 2025-09-15
+Nameservers: ns1.google.com, ns2.google.com
+Admin Contact: domain-admin@google.com
+
+Domain: wikipedia.org
+Registrar: Wikimedia Foundation, Inc.
+Created: 2001-01-15
+Expires: 2025-01-15
+Nameservers: ns0.wikimedia.org, ns1.wikimedia.org
+Admin Contact: sysadmins@wikimedia.org
+
+Domain: github.com
+Registrar: GitHub, Inc.
+Created: 2008-02-08
+Expires: 2025-02-08
+Nameservers: ns-1259.awsdns-29.org, ns-1566.awsdns-03.co.uk
+Admin Contact: support@github.com
+
+Domain: microsoft.com
+Registrar: MarkMonitor Inc.
+Created: 1991-05-02
+Expires: 2025-05-02
+Nameservers: ns1.msft.net, ns2.msft.net
+Admin Contact: domain@microsoft.com
+

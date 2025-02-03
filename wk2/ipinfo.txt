@@ -1,0 +1,24 @@
+Domain: example.com
+IP Address: 93.184.216.34
+Location: Los Angeles, California, USA
+ISP: Edgecast Networks
+
+Domain: google.com
+IP Address: 142.250.191.78
+Location: Mountain View, California, USA
+ISP: Google LLC
+
+Domain: wikipedia.org
+IP Address: 208.80.154.224
+Location: San Francisco, California, USA
+ISP: Wikimedia Foundation
+
+Domain: github.com
+IP Address: 140.82.112.4
+Location: San Francisco, California, USA
+ISP: GitHub, Inc.
+
+Domain: microsoft.com
+IP Address: 40.112.72.205
+Location: Redmond, Washington, USA
+ISP: Microsoft Corporation
